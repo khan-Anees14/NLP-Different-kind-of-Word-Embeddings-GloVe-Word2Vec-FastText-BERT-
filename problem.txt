@@ -1,0 +1,26 @@
+Train a deep neural network model in PyTorch for multi-label text classification 
+after turning text into dense embeddings. Compare the performance of models 
+with respect to following word embedding models: Word2Vec, Glove, FastText, BERT 
+
+Select any one of the Multi-label text classification datasets:
+
+Twitter Multilabel Classification Dataset
+https://www.kaggle.com/datasets/prox37/twitter-multilabel-classification-dataset 
+
+Consumer Review of Clothing Product
+https://www.kaggle.com/datasets/jocelyndumlao/consumer-review-of-clothing-product
+
+PubMed MultiLabel Text Classification Dataset MeSH
+https://www.kaggle.com/datasets/owaiskhan9654/pubmed-multilabel-text-classification
+
+Find Open Datasets and Machine Learning Projects | Kaggle
+https://www.kaggle.com/datasets?search=multilabel+classification
+
+arXiv Paper Abstracts
+https://www.kaggle.com/datasets/spsayakpaul/arxiv-paper-abstracts
+
+H1N1 and Seasonal Flu Vaccines
+https://www.kaggle.com/datasets/arashnic/flu-data
+
+NLP : Reports & News Classification
+https://www.kaggle.com/datasets/vbmokin/nlp-reports-news-classification
